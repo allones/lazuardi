@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+}
+
+nav {
+	height: 100px;
+	background: white;
+}
+
+.cate {
+	font-size: 20px;
+	text-align: left;
+	margin right: auto;
+	padding: 20px;
+	color: black;
+}
+
+.about {
+	font-size: 20px;
+	text-align: right;
+	padding: 20px;
+	list-style: none;
+}
